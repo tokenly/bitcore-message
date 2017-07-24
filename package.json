@@ -23,7 +23,7 @@
     "url": "https://github.com/tokenly/bitcore-message.git"
   },
   "dependencies": {
-    "bitcore-lib": "^0.13.7"
+    "bitcore-lib": "https://github.com/tokenly/bitcore-lib.git"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
